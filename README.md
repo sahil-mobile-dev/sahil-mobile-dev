@@ -4,7 +4,7 @@
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;Flutter+Expert;Firebase+Enthusiast;Always+learning+new+things)
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sahil-portfolio-4859f.web.app)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sahilchudasama-mobiledev.web.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sahil-chudasama)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahil-mobile-dev)
   
@@ -94,7 +94,7 @@ A modern video streaming application with Cloudinary integration for adaptive st
 A premium, fully responsive portfolio built with modern web technologies.
 - **Tech Stack**: Next.js, Tailwind CSS, Framer Motion, Firebase
 - **Features**: Contact form, SEO optimized, smooth animations
-- **Live**: [View Portfolio](https://sahil-portfolio-4859f.web.app)
+- **Live**: [View Portfolio](https://sahilchudasama-mobiledev.web.app/)
 
 ---
 
@@ -139,7 +139,7 @@ I'm always interested in collaborating on interesting projects or discussing new
   
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahil.mobiledev@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sahil-chudasama)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sahil-portfolio-4859f.web.app)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sahilchudasama-mobiledev.web.app/)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sahil_mobile_dev)
   
 </div>
