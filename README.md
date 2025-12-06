@@ -5,7 +5,7 @@
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;Flutter+Expert;Firebase+Enthusiast;Always+learning+new+things)
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sahil-portfolio-4859f.web.app)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-chudasama)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sahil-chudasama)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahil-mobile-dev)
   
 </div>
@@ -14,13 +14,14 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Mobile App Developer** specializing in creating beautiful, performant, and user-friendly applications. With expertise in **Flutter**, **Firebase**, and modern development practices, I turn ideas into reality.
+I'm a passionate **Flutter Developer** with strong experience in building cross-platform mobile applications, subscription systems, in-app purchases, AI-powered features, and scalable Firebase-based backends. I specialize in architecting clean, maintainable mobile apps with performance, UX, and reliability in mind.
 
-- 🔭 I'm currently working on **innovative mobile solutions**
-- 🌱 I'm constantly learning and exploring **new technologies**
-- 💬 Ask me about **Flutter, Firebase, Mobile Development**
-- 📫 Reach me at: **sahilchudasama@example.com**
-- ⚡ Fun fact: I love turning complex problems into simple, elegant solutions
+- 🔭 I'm currently working on **cross-platform mobile applications**
+- 🌱 I'm constantly learning **AI Integration & Cloud Architecture**
+- 💬 Ask me about **Flutter, Firebase, Mobile Development, AI Integration**
+- 📫 Reach me at: **sahil.mobiledev@gmail.com**
+- 📍 Based in **Ahmedabad, India**
+- ⚡ Fun fact: Available for freelance projects!
 
 ---
 
@@ -136,8 +137,8 @@ I'm always interested in collaborating on interesting projects or discussing new
 
 <div align="center">
   
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilchudasama@example.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-chudasama)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahil.mobiledev@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sahil-chudasama)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sahil-portfolio-4859f.web.app)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sahil_mobile_dev)
   
