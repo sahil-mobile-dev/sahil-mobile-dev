@@ -68,16 +68,6 @@ I'm a passionate **Flutter Developer** with strong experience in building cross-
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=sahil-mobile-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-  
-</div>
-
----
-
 ## 💼 Featured Projects
 
 ### 📱 ShopDue Manager
